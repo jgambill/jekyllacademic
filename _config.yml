@@ -7,15 +7,15 @@ logo:             # filename of a logo image that has been placed into your imag
 url: http://jodiegambill.com/jekyllacademic
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Jodie Gambill
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
-  twitter: #username
+  bio: "Systems Librarian / Web Developer"
+  email: jodie.gambill@gmail.com
+  twitter: gambiljl
   facebook: #username
   instagram: #username
-  linkedin: #username
-  github: #username
+  linkedin: jgambill
+  github: jgambill
   researchgate: #username
   mendeley: #username
   google:
